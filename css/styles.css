@@ -1,0 +1,199 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.colored-section{
+    background-color: #ff4c68;
+}
+.white-section{
+    background-color: #fff;
+}
+.pink-section{
+    background-color: #e43c55d3;
+}
+
+.heading1 {
+    font-size: 3rem;
+    text-align: left;
+    font-size: 3rem;
+    font-weight: bold;  
+    color: aliceblue; 
+    line-height: 1.5; 
+}
+.wee{
+    text-align: left;
+}
+
+.container-fluid {
+    padding: 2% 10%;
+    padding-bottom: 83px;
+
+}
+
+.navbar-brand{
+    font-size: 3rem; 
+    font-family: 'Sevillana', cursive; 
+    font-weight: bold;
+}
+
+.nav-link{
+    margin: 8px;  
+    color: rgba(141, 137, 137, 0.384);
+}
+.active{
+    color: #8f8f8f;
+}
+.nav-link:hover{
+    color: #fff;
+}
+
+.navbar-collapse{
+    padding: 49px;
+}
+
+.active{
+    color: #8f8f8f;
+    font-size: 12px;
+
+}
+
+.navbar-nav{
+    font-size: 18px;
+}
+
+.dwn{
+    margin: 5% 3% 5% 0%;
+}
+
+.image1 {
+    transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
+    height: 480px; 
+    width: 20%;
+
+}
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    }
+    .wee{
+        text-align: center;
+    }
+    .image1 {
+        position: static;
+        transform: rotate(0deg);
+    }
+    .cardedit{
+        margin-left: 24%;
+    }
+}
+
+#features {
+    padding: 9% 10%;
+    position: relative;
+    z-index: 1;
+}
+
+.fea{
+    height: 59px; font-size: 49px; 
+    color:  #ff4c68;
+}
+
+h3 {
+    font-size: 21px;
+    font-weight: bold;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+.iconxyz {
+    color: #ff4c68;
+    margin-bottom: 2rem;
+}
+
+.iconxyz:hover {
+    color: #ff4c68;
+}
+
+.car {
+    padding: 5% 15%;
+    line-height: 1.5;
+    font-size: 44px;
+    color: white;
+    font-weight: bold;
+    ;
+}
+
+#press {
+    padding: 15% 8%;
+    padding-top: 38px;
+    padding-bottom: 28px;
+}
+
+.imgedit {
+    width: 200px;
+    margin: 20px 20px 50px;
+}
+
+#pricing {
+    padding: 100px;
+}
+
+.prc{
+    padding-right: 71px; 
+    padding-left: 71px;
+}
+
+.cardx {
+    padding: 2% 3%;
+}
+#cta {
+    font-weight: bolder;
+
+}
+
+.cbi{
+    margin: 5% 3% 5% 0%;
+}
+
+.cta-heading {
+    padding: 90px;
+    margin: 34px 16%;
+    padding-bottom: 0%;
+    font-size: 41px;
+    color: aliceblue;
+}
+
+#footer {
+    padding: 29px;
+    margin: 15px;
+}
+
+.social {
+    margin: 20px 10px;
+}
+
+.inrcar{
+    padding-top: 0; 
+    padding-bottom: 38px;
+}
+
+.inrcar2{
+    padding-top: 30px; 
+    padding-bottom: 0; 
+    font-size: 37px;
+}
+
+.nav-item:hover{
+    color: #fff;
+}
+
+
+
